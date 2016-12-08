@@ -5,6 +5,7 @@
 
 
 可以设置拉伸颜色已经拉伸内容
+
         ImageView imageView = new ImageView(this);
         imageView.setImageResource(R.mipmap.ic_launcher);
         metaBallView.setDragView(imageView);
